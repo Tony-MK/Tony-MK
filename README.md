@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Tony-MK
+- 👋 Hey,
+- Welcome to my Github Profile. My name is Antony Kithinzi (@Tony-MK) and am a Software Engineer from Kenya who loves open source code.
+- I mainly love to write code which involes creating APIs and websockets, designing web applications, scraping data from the web and training ML models.
+- Like to contact me ? You can email me at kithinzi@gmail.com
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
