@@ -1,8 +1,9 @@
 - 👋 Hey there,
 - Welcome to my Github Profile. 
-- My name is Antony Kithinzi (@Tony-MK) and I am a software engineer from Kenya.
-- I mainly love to write code for application program interfaces, websockets, web applications, scraping data and numerical computations.
-- Like to contact me ? You can email me at kithinzi97@gmail.com
+- My name is Antony Kithinzi (@Tony-MK), and I am a software engineer from Kenya.
+- I mainly love to write code for application program interfaces, websockets, web applications, and scraping data.
+- My favourite programming language is Python.
+- Like to contact me? Kindly, email me at kithinzi97@gmail.com
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
