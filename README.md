@@ -1,7 +1,8 @@
-- 👋 Hey there, Welcome to my profile 
-- 😊 My name is Antony Kithinzi (@Tony-MK) from Kenya 🇰🇪.
-- 🌱 I’m currently learning React Native
-- 📫 Feel free to say hello. kithinzi97@gmail.com
+- 👋 Hey, Welcome to my GitHub profile.
+- 😊 My name is Antony Kithinzi (@Tony-MK) from 🇰🇪 (Kenya).
+- 👀 I’m interested in web development and machine learning.
+- 🌱 Currently, I am learning React Native.
+- 📫 You can email me anytime at me@antonykithinzi.com. 
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
