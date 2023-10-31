@@ -1,10 +1,10 @@
-- 👋 Hey there, Welcome
-- 😊 My name is Antony Kithinzi (@Tony-MK).
--  🇰🇪 I'm a software engineer from Nairobi, Kenya  
-- 🌱 Currently, I am learning Flutter, React Native and Rust
-- 👀 Interested in software development, machine learning, and football
-- 💞️ Looking forward to collaborating on web and mobile development open source projects
+- 👋 Hey there, welcome
+- 😊 My name is Antony Kithinzi ([@Tony-MK](https://github.com/Tony-MK)).
+- 🇰🇪 I'm a software engineer in Nairobi, Kenya  
+- 🌱 Currently, I am learning React Native and Rust
 - 📫 You can reach me anytime at me@antonykithinzi.com 
+- 👀 Some of my interests include artificial intelligence and football
+- 💞️ Looking forward to contributing and collaborating on new open-source projects
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
