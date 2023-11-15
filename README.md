@@ -1,9 +1,9 @@
-- 👋 Hey there, welcome
-- 😊 My name is Antony Kithinzi ([@Tony-MK](https://github.com/Tony-MK)).
-- 🇰🇪 I'm a software engineer in Nairobi, Kenya  
-- 🌱 Currently, I am learning React Native and Rust
-- 📫 You can reach me anytime at me@antonykithinzi.com 
-- 👀 Some of my interests include artificial intelligence and football
+- 👋 Hey, welcome to my GH profile
+- 😊 My name is Antony Kithinzi [@Tony-MK](https://github.com/Tony-MK)
+- 🇰🇪 I'm a software engineer from Nairobi, Kenya  
+- 🌱 I’m currently learning Flutter, React Native and Rust
+- 📫 You can email me anytime at [me@antonykithinzi.com](mailto:me@antonykithinzi.com)
+- 👀 I’m interested in artificial intelligence and football 💙
 - 💞️ Looking forward to contributing and collaborating on new open-source projects
 <!---
 - 👀 I’m interested in ...
