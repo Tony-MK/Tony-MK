@@ -5,8 +5,6 @@
 - 👀 Interested in mobile/web development, machine learning, and football 💙
 - 📫 Please feel free to email me anytime at [me@antonykithinzi.com](mailto:me@antonykithinzi.com)
 - 💞 I look forward to becoming part of a dedicated team working on open-source projects
-
-- 
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
