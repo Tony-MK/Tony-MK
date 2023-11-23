@@ -1,5 +1,5 @@
 - 👋 Hey, welcome to my GH profile
-- 😊 My name is Antony Kithinzi [@Tony-MK](https://github.com/Tony-MK)
+- 😊 My name is Antony Kithinzi
 - 🇰🇪 I'm a software engineer from Nairobi, Kenya  
 - 🌱 Currently learning Flutter, React Native and Rust
 - 👀 Interested in developing cross-platform apps and football 💙
