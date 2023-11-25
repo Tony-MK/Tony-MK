@@ -1,4 +1,4 @@
-- 👋 Hey, welcome to my GH profile
+- 👋 Hey, Welcome
 - 😊 My name is Antony Kithinzi
 - 🇰🇪 I'm a software engineer from Nairobi, Kenya  
 - 🌱 Currently learning Flutter, React Native and Rust
