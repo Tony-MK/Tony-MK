@@ -1,7 +1,7 @@
-- 👋 Hey, Welcome
+- 👋 Hey there!
 - 😊 My name is Antony Kithinzi
-- 🇰🇪 I'm a software engineer from Nairobi, Kenya  
-- 🌱 Currently learning Flutter, React Native and Rust
+- 🇰🇪 I'm a software engineer from Kenya  
+- 🌱 Currently, I'm learning Flutter, React Native and Rust
 - 👀 Interested in developing cross-platform apps and football 💙
 - 📫 Please feel free to email me anytime at [me@antonykithinzi.com](mailto:me@antonykithinzi.com)
 - 💞 I look forward to becoming part of a dedicated team working on open-source projects
