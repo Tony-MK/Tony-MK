@@ -1,4 +1,4 @@
-- 👋 Hey!
+- 👋 Hey
 - 😊 My name is Antony Kithinzi
 - 🇰🇪 I'm a software engineer from Kenya  
 - 🌱 Currently, I'm learning Flutter, React Native and Rust
