@@ -1,4 +1,5 @@
-- 👋 Hello there! My name is Antony Kithinzi
+- 👋 Hello there!
+- 😄 My name is Antony Kithinzi
 - 🌱 I'm learning Flutter, React Native and Rust
 - 👀 I'm interested in developing cross-platform apps and football 💙
 - 📫 Please feel free to email me anytime at [me@antonykithinzi.com](mailto:me@antonykithinzi.com)
