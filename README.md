@@ -1,4 +1,4 @@
-- 🎉 Happy New Year!
+- 👋 Hey there, buddy!
 - 😄 My name is Antony Kithinzi.
 - 🌱 Learning Flutter, React Native, and Rust.
 - 🤔 Intrigued about cross-platform development and statistical modeling.
