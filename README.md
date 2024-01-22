@@ -1,7 +1,7 @@
 - 👋 Welcome, my name is Antony Kithinzi.
 - 🌱 Learning Flutter, React Native, and Rust.
 - 🤔 Intrigued about cross-platform application development.
-- 📫 Please feel free to contact me at [me@antonykithinzi.com](mailto:me@antonykithinzi.com) or [antonykithinzi@starthmore.edu](mailto:antonykithinzi@starthmore.edu).
+- 📫 Please feel free to contact me at [me@antonykithinzi.com](mailto:me@antonykithinzi.com).
 - 💞 Looking forward to learning and meeting unique individuals to collaborate on open-source software.
  <!---
 - 👀 I’m interested in ...
