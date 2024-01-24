@@ -1,4 +1,4 @@
-- 👋 Hey There!
+- 👋 Hey, there!
 - 🙂 My name is Antony Kithinzi.
 - 🌱 Learning Flutter, React Native, and Rust.
 - 🤔 Intrigued about cross-platform application development.
