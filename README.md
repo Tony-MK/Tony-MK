@@ -1,7 +1,7 @@
 - 👋 Hey, my name is Antony Kithinzi.
 - 🌱 Learning React Native and Typescript.
 - 🤔 Intrigued about application development.
-- 📫 Don't be shy to contact me at [me@antonykithinzi.com](mailto:me@antonykithinzi.com).
+- 📫 Please feel free to contact me at [me@antonykithinzi.com](mailto:me@antonykithinzi.com).
 - 💞 Looking forward to collaborating on open-source software.
  <!---
 - 👀 I’m interested in ...
