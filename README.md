@@ -3,6 +3,7 @@
 - 🤔 Intrigued about application development.
 - 📫 Please feel free to contact me at [me@antonykithinzi.com](mailto:me@antonykithinzi.com).
 - 💞 Looking forward to collaborating on open-source software.
+
  <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
