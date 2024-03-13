@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Antony Kithinzi.
+- 👋 Hi, my name is Antony Kithinzi.
 - 🇰🇪 A Software Developer from Kenya.
 - 🙂 Learning React Native and Typescript.
 - 🤔 Intrigued about application development and machine learning.
