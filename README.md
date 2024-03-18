@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Antony Kithinzi.
-- 🙂 Learning React Native and Typescript.
 - 🤔 Intrigued about application development and machine learning.
-- 🤟 Looking forward to meeting talented techies to build open-source software.
+- 🙂 Looking forward to meeting talented techies to build open-source software.
 - 📫 Please feel free to contact me at [hello@antonykithinzi.com](mailto:hello@antonykithinzi.com) or [antony.kithinzi@strathmore.edu](mailto:antony.kithinzi@strathmore.edu).
 
 
