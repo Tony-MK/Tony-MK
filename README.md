@@ -1,5 +1,4 @@
-- 📫 Please feel free to contact me at [hello@antonykithinzi.com](mailto:hello@antonykithinzi.com).
- 
+- 📫 Feel free to contact me at [hello@antonykithinzi.com](mailto:hello@antonykithinzi.com).
 
 <!---
 - 👀 I’m interested in ...
