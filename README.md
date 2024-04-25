@@ -1,10 +1,7 @@
-<!---
-
-- 👋 Hi, my name is Antony Kithinzi.
 - 📫 Please feel free to contact me at [hello@antonykithinzi.com](mailto:hello@antonykithinzi.com).
  
 
-
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
