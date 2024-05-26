@@ -1,3 +1,5 @@
+- 👋 Hi there.
+- 😄 Welcome to my profile.
 - 📫 Feel free to contact me at [hello@antonykithinzi.com](mailto:hello@antonykithinzi.com).
 
 <!---
