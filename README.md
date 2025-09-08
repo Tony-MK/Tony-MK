@@ -1,6 +1,5 @@
-- 👋 Hi there.
-- 😄 My name is Tony.
-  
+- Hey 👋
+    
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
